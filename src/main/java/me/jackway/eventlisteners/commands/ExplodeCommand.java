@@ -9,6 +9,7 @@ import org.bukkit.plugin.Plugin;
 
 public class ExplodeCommand implements CommandExecutor
 {
+    //test comment
     Plugin plugin = EventListeners.getPlugin(EventListeners.class);
 
     @Override
